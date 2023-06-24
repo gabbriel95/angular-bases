@@ -11,7 +11,7 @@ export class ListComponent {
     'Ironman',
     'Hulk',
     'She Hulk',
-    'Thor',
+    'Batman',
   ];
 
   public deleteHero?: string;
